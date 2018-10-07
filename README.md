@@ -19,6 +19,9 @@ If there are two key value inputs, on submit, it would create this object and sh
 
 ## Images
 
-![main]('./src/assets/images/DC - 1.png')
-![main]('./src/assets/images/Screen Shot 2018-09-28 at 11.02.07 AM.png')
-![main]('./src/assets/images/Screen Shot 2018-09-28 at 11.54.55 AM.png')
+#### Full screen view
+![main](./src/assets/images/1.png)
+#### Full screen view with more forms inputs
+![main](./src/assets/images/2.png)
+#### Mobile view
+![main](./src/assets/images/3.png)
